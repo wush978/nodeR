@@ -1,5 +1,6 @@
 #include <node.h>
 #include <v8.h>
+#include <RInside.h>
 
 using namespace v8;
 
